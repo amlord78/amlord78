@@ -1,5 +1,5 @@
 type: target-group
-name: dssdd
+name: dssd
 description: dsds
 conditions:
   - operator: semver-lte
