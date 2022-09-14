@@ -1,10 +1,5 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-description: |
-  dsdsds
-labels:
-  - sdsd
 enabled: false
-stickinessProperty: rox.language
-flag: dsds
+flag: dsd
 value: false
