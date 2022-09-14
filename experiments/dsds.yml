@@ -1,6 +1,7 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-description: dsds
+description: |
+  dsdsds
 labels:
   - sdsd
 enabled: false
