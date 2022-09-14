@@ -4,6 +4,7 @@ description: |
   dsdsds
 labels:
   - sdsd
+  - archived
 stickinessProperty: rox.language
 flag: dsds
 value: false
