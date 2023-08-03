@@ -9,5 +9,4 @@ header('Content-Length: ' . filesize($file));
 header('Accept-Ranges: bytes');
 
 @readfile($file);
-
 ?>
